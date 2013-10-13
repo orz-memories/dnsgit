@@ -1,0 +1,3 @@
+CNAME(*, park.orzcloud.info., 默认, 600, 0)
+CNAME(@, mist.so., 默认, 600, 0)
+CNAME(www, mist.so., 默认, 3600, 0)

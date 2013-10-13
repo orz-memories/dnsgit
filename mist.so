@@ -1,0 +1,3 @@
+CNAME(*, tomoyo.orzcloud.info., 默认, 600, 0)
+CNAME(@, tomoyo.orzcloud.info., 默认, 600, 0)
+CNAME(fan.lynn, jp1.rpvhost.net., 默认, 600, 0)
